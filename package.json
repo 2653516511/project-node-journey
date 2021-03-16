@@ -1,0 +1,23 @@
+{
+  "name": "journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2653516511/project-node-journey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2653516511/project-node-journey/issues"
+  },
+  "homepage": "https://github.com/2653516511/project-node-journey#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "gulp": "^4.0.2"
+  }
+}
