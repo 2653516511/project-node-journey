@@ -29,6 +29,9 @@
     -要点：
         --首先确定好Input 和 Output
         --然后分析在这段时间内还能不能有其他的input
+## 11 node.js的callback
+    https://www.npmjs.com/package/async
+    -例子：game-demo/callback/index.js
 
 
 技术预研：项目的需求、技术难点
