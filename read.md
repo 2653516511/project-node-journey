@@ -32,7 +32,15 @@
 ## 11 node.js的callback
     https://www.npmjs.com/package/async
     -例子：game-demo/callback/index.js
-
+## 12 Express 
+    要了解一个框架，最好的方法就是：
+        -了解它的关键功能
+        -推导出它要解决的问题是什么
+    Features：
+        -路由
+        -http处理
+        -模板引擎
+        
 
 技术预研：项目的需求、技术难点
 BFF(Backend for Fontend)层：对用户侧提供http服务、使用后端RPC服务
