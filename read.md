@@ -1,6 +1,6 @@
 ## 1 什么是node.js?
     -node.js是一个 js运行环境 基于chrome V8引擎
-    -node.js使用了一个 事件驱动、非阻塞式I/O的模型
+    -node.js使用了一个 事件驱动、非阻塞式I/O 的模型
 ## 2 不同之处：
     -node.js没有浏览器api，即window document等
     -加了node.js 的api
